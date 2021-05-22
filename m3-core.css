@@ -1052,7 +1052,7 @@ i.m3-card-media, span.m3-card-media{
 
 .m3-photofilm:hover .m3-figure {opacity: 0.3;}
 .m3-photofilm .m3-figure:hover { transform: scale(1.1); opacity: 1;}
-.m3-photofilm .m3-figure:last-child:hover { transform: none;}
+/*.m3-photofilm .m3-figure:last-child:hover { transform: none;}*/
 
 .m3-photofilm .m3-figure:hover ~ .m3-figure {transform: translate3d(25px, 0, 0);}
 
